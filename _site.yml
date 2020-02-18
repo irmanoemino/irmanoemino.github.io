@@ -1,0 +1,14 @@
+name: "R en Ingeniería"
+output_dir: "."
+navbar:
+  title: "Curso de R"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Alcances y Aplicaciones"
+      href: about.html
+
+output:
+  html_document:
+    theme:  spacelab
+    highlight: textmate

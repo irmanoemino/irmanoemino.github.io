@@ -1,0 +1,24 @@
+---
+title: "R para Ingeniería"
+---
+
+Bienvenidos al recorrido de los recursos de R 
+
+## Contenidos {.tabset}
+
+### Introducción a R
+
+Qué es R. Descarga e instalación. Alcance con ejemplos.
+
+### Datos y estructuras
+
+Tipos de datos, estructuras y su manipulación. (subdividir en manejo estadístico, gráficas básicas). Ejemplos y ejercicios.
+
+### Graficar con R. 
+
+Herramienta ggplot2. El poder de la visualización. Ejemplos y ejercicios
+
+### Introducción a la programación
+
+Sentencias, scripts. Ejemplos y ejercicios.
+

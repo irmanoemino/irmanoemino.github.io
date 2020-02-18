@@ -1,0 +1,6 @@
+---
+title: "Alcances y aplicaciones"
+---
+
+Los contenidos a desarrollar se han seleccionado específicamente para aplicaciones de R en la ingeniería y ciencias básicas.
+
