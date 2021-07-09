@@ -10,8 +10,6 @@ Bienvenidos al recorrido de los recursos de R
 
 Qué es R. Descarga e instalación. Alcance con ejemplos.
 
-[Presentación](www.clasesvirtuales.org)
-
 ### Datos y estructuras
 
 Tipos de datos, estructuras y su manipulación. (subdividir en manejo estadístico, gráficas básicas). Ejemplos y ejercicios.
